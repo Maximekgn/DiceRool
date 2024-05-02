@@ -1,0 +1,38 @@
+.container
+{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 3rem;
+}
+button
+{
+    font-size: 2rem;
+    padding: 10px ;
+    border-radius: 10px;
+    border: none;
+    background-color: gray;
+    cursor: pointer;
+}
+button:hover
+{
+    background-color: #2a9deb;
+    color: white;
+}
+button:active
+{
+    background-color: #51b9ff;
+    color: white;
+}
+
+input
+{
+    font-size: 3rem;
+    text-align: center;
+    font-weight: bold;
+    width: 300px;
+}
+.dice
+{
+    height: 200px;
+    width: 200px;
+}
